@@ -16,7 +16,25 @@
 x = input("Enter a integer number: ")
 y = 0
 for i in range(len(x)):
-  y += int(x[i])
+  y += int((x[i]))
 
 
 print(y)
+
+
+y = 0
+for i in x:
+  y += int(i)
+
+print(y)
+
+
+s = 0
+x = int(x)
+while x > 0:
+  y = x % 10
+  s += y
+  x //= 10
+
+
+print(s)
