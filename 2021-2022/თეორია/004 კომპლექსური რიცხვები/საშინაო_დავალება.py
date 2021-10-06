@@ -25,3 +25,4 @@ num3 = 3 + 5j
 
 #Print everything
 # დაბეჭდეთ ყველა ცვლადი
+
