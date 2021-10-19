@@ -9,9 +9,13 @@
 ##num1 = 55.876
 ##num2 = 100.54
 ##add = num1 + num2
-##
+##print(add)
+####
 ##num3 = 1235.583
 ##add = add + num3
+##print(add)
+##
+##add = add + 10
 ##print(add)
 
 
@@ -45,6 +49,9 @@
 ##print(exp)
 ##
 ##exp = 5.5 ** 3.5
+##print(exp)
+##
+##exp = 2 ** 3.69
 ##print(exp)
 
 
