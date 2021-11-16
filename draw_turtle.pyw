@@ -40,15 +40,3 @@ t.fd(100)
 t.home()
 
 t.backward(100)
-
-
-
-
-
-
-
-
-# ================
-##t.hideturtle()
-##turtle.hideturtle()
-turtle.done()
