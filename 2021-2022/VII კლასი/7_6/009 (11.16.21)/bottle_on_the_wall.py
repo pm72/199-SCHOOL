@@ -9,7 +9,7 @@ By Guido van Rossum, demystified after a version by Fredrik Lundh.
 
 
 import sys
-n = 100
+n = 10
 
 if sys.argv[1:]:
   n = int(sys.argv[1])
