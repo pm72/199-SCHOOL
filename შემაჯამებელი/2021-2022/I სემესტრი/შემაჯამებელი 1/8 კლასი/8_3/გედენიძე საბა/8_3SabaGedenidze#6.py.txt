@@ -1,0 +1,14 @@
+import random
+ricxvi=random.randint(100000000000, 1000000000000)
+minimaluri=10
+maximaluri=0
+ricxvi2=ricxvi
+while (ricxvi>0):
+    bolocifri = ricxvi%10
+    if(maximaluri<bolocifri):
+       maximaluri=bolocifri
+    if(minimaluri>bolocifri):
+      minimaluri=bolocifri
+    ricxvi//=10
+print(ricxvi2)
+print((minimaluri+maximaluri)**2)

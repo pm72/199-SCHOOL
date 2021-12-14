@@ -1,0 +1,50 @@
+
+#1
+print(((9.5*4.5)-(2.5*3))/(45.5 - 3.5))
+
+#2
+kms = 14.0
+miles = kms/1.6
+minutes = 45.5#mandzili (km)
+kms = 14.0
+miles = kms/1.6
+minutes = 45.5
+miles_in_1_minute = miles/minutes
+miles_in_1_hour = miles_in_1_minute * 60
+print(str(miles_in_1_hour) + " miles/hour")
+
+#3
+import random
+b = random.randint(100, 1000)
+minutes = b//60
+seconds = b%60
+print(str(minutes) + " minutes and " + str(seconds) + " seconds")
+
+#4 
+x = 2.59
+y = -8.92
+a = (2*y)/(x**y)
+c = (x - 2*y)/(a**2)
+r = (2.79*x + 3*a)/(y**2 - 2*x*c)
+
+print((4/(3*r+4))-9*(x+y*c)+((3+a*(2+x))/(x+y*a)))
+
+#5
+import math
+x1 = -20
+x2 = 11
+y1 = 8
+y2 = 6
+print(math.sqrt((x2-x1)**2 + (y2 - y1)**2))
+
+#6
+import random
+a = random.randint(10**11, 10**12)
+y = 10
+x = 0
+while (a>0):
+    k = a%10
+    mx = max(k, x)
+    mn = min(k, y)
+    a //= 10
+print((x+y)**2)

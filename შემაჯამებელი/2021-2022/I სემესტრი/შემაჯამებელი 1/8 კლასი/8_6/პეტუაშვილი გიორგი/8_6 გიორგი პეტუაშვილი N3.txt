@@ -1,0 +1,5 @@
+import random
+subject1 = random.randint(100, 1000)
+mins = subject1//60
+secs = subject1%60
+print(str(mins) + " minutes and " + str(secs) + " seconds")

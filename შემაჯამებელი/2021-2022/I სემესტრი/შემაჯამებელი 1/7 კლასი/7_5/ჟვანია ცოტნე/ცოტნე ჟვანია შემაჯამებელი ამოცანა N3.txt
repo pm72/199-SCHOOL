@@ -1,0 +1,8 @@
+import random as r
+a = r.randrange(100, 1000)
+print("c:")
+print(a)
+print("v:")
+print(a//60)
+print("m:")
+print(a%60)
