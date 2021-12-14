@@ -1,6 +1,0 @@
-kilometri=14.0
-mili=kilometri/1.6
-wutebi=45.5
-wutshimili=mili/wutebi
-saatshimili=wutshimili*60
-print(str(saatshimili) + " mili saatshi")

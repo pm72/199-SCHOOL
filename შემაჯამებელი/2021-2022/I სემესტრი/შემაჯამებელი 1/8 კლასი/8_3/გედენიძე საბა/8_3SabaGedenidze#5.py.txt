@@ -1,6 +1,0 @@
-import math
-ricxvi1=-20
-ricxvi2=11
-ricxvi3=8
-ricxvi4=6
-print(math.sqrt((ricxvi2-ricxvi1)**2+(ricxvi4-ricxvi3)**2))

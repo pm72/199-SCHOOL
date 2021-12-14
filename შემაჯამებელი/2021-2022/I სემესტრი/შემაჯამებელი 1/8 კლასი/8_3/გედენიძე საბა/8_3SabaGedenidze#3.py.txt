@@ -1,7 +1,0 @@
-import random
-ricxvi=random.randint(100, 1000)
-wutebi=ricxvi//60
-wamebi=ricxvi%60
-print(ricxvi)
-print(str(wutebi) + " wuti da ")
-print(str(wamebi) + " wami")

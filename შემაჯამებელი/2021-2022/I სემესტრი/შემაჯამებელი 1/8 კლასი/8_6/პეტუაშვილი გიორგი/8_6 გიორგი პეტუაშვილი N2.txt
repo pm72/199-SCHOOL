@@ -1,6 +1,0 @@
-kilometres = 14.0
-minutes = 45.5
-miles = kilometres/1.6
-miles_on_minute = miles/minutes
-miles_on_hour = miles_on_minute * 60
-print(str(miles_on_hour) + " miles/hour")

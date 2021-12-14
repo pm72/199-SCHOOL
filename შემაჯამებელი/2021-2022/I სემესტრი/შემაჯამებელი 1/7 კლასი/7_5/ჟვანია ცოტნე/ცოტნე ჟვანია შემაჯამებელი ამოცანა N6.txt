@@ -1,4 +1,0 @@
-b = (12.512 - 3.98j)
-y2 = b.imag
-y1 = b.real
-print((y1+y2)/2)
