@@ -20,9 +20,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/2_write.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)/2_write.pyw.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)/1.pyw.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/1_write.pyw" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/1.pyw.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/3_heading_setheding.pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/2_circle_and_arc.pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/001 (1.17.22)/2_წარწერა.pyw" root0="SKIP_INSPECTION" />
@@ -39,17 +39,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_1\II სემესტრი\001 (1.17.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_7\II სემესტრი" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_6\II სემესტრი\001 (1.17.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\თეორიის მაგალითები\II სემესტრი" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2_write">
+  <component name="RunManager" selected="Python.2_write.pyw">
     <configuration name="1.pyw (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1.pyw (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/001 (1.17.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/001 (1.17.22)/1.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)/1.pyw.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_heading_setheding.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2_write.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/3_heading_setheding.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)/2_write.pyw.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2_write.pyw" />
+        <item itemvalue="Python.1.pyw (2)" />
         <item itemvalue="Python.2_write" />
         <item itemvalue="Python.1.pyw (1)" />
         <item itemvalue="Python.2_წარწერა.pyw" />
-        <item itemvalue="Python.1.pyw" />
-        <item itemvalue="Python.3_heading_setheding.pyw" />
       </list>
     </recent_temporary>
   </component>
