@@ -1,7 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="" />
+    <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/002 (09.28.21)/2_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/002 (09.28.21)/2_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/002 (09.28.21)/2_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/002 (09.28.21)/2_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/003 (10.05.21)/3_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/004 (10.12.21)/4_1 shell.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/004 (10.12.21)/4_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/004 (10.12.21)/საშინაო_დავალება__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/005 (10.19.21)/გაკვეთილი_5_1__რიცხვები.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/005 (10.19.21)/გაკვეთილი_5_2__მინიჭების ოპერატორი.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/006 (10.26.21)/გაკვეთილი_6_1__math_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/006 (10.26.21)/გაკვეთილი_6_2__შემთხვევითი (random) რიცხვები.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/008 (11.16.21)/draw_turtle.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/009 (11.30.21)/draw_figures.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/010 (12.7.21)/color_figures.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/010 (12.7.21)/mandala.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/011 (12.14.21)/კვადრატში ჩახაზული წრეწირი.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_4/011 (12.14.21)/მართკუთხედი და წრეწირი.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/002 (09.28.21)/2_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/002 (09.28.21)/2_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/002 (09.28.21)/2_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/002 (09.28.21)/2_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/003 (10.05.21)/3_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/004 (10.12.21)/4_1 shell.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/004 (10.12.21)/4_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/004 (10.12.21)/საშინაო_დავალება__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/005 (10.19.21)/გაკვეთილი_5_1__რიცხვები.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/005 (10.19.21)/გაკვეთილი_5_2__მინიჭების ოპერატორი.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/006 (10.26.21)/გაკვეთილი_6_1__math_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/006 (10.26.21)/გაკვეთილი_6_2__შემთხვევითი (random) რიცხვები.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/008 (11.16.21)/draw_turtle.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/009 (11.30.21)/draw_figures.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/010 (12.7.21)/color_figures.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/010 (12.7.21)/mandala.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/011(12.14.21)/კვადრატში ჩახაზული წრეწირი.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_5/011(12.14.21)/მართკუთხედი და წრეწირი.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/002 (09.28.21)/2_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/002 (09.28.21)/2_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/002 (09.28.21)/2_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/002 (09.28.21)/2_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/003 (10.05.21)/3_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/004 (10.12.21)/4_1 shell.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/004 (10.12.21)/4_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/004 (10.12.21)/საშინაო_დავალება.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/005 (10.19.21)/გაკვეთილი_5_1__რიცხვები.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/005 (10.19.21)/გაკვეთილი_5_2__მინიჭების ოპერატორი.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/006 (10.26.21)/გაკვეთილი_6_1__math_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/006 (10.26.21)/გაკვეთილი_6_2__შემთხვევითი (random) რიცხვები.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/008 (11.16.21)/draw_turtle.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/009 (11.16.21)/bottle_on_the_wall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/009 (11.16.21)/draw_figures.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/010 (12.7.21)/color_figures.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/010 (12.7.21)/mandala.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/011 (12.14.21)/კვადრატში ჩახაზული წრეწირი.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/011 (12.14.21)/მართკუთხედისა და წრეწირის ხატვა.pyw" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +76,18 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)/2_write.pyw.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/001 (1.18.22)/2_write.pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)/1.pyw.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/001 (1.18.22)/1.pyw" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/001 (1.18.22)/2_write.pyw" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/001 (1.18.22)/1.pyw" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/001 (1.18.22)/2_write.pyw" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/001 (1.18.22)/1.pyw" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/001 (1.17.22)/2_წარწერა.pyw" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/001 (1.17.22)/1.pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/1_write.pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/3_heading_setheding.pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/2_circle_and_arc.pyw" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/001 (1.17.22)/2_წარწერა.pyw" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/001 (1.17.22)/1.pyw" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,15 +100,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/001 (1.18.22)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_6\II სემესტრი\001 (1.18.22)" />
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_4\II სემესტრი\001 (1.18.22)" />
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_5\II სემეტრი\001 (1.18.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_1\II სემესტრი\001 (1.17.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_7\II სემესტრი" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_6\II სემესტრი\001 (1.17.22)" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\თეორიის მაგალითები\II სემესტრი" />
     </key>
   </component>
   <component name="RunManager" selected="Python.2_write.pyw">
@@ -57,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/001 (1.18.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/1.pyw.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/001 (1.18.22)/1.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/001 (1.18.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)/1.pyw.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/001 (1.18.22)/1.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_წარწერა.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2_write.pyw (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/001 (1.17.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/001 (1.18.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/001 (1.17.22)/2_წარწერა.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/001 (1.18.22)/2_write.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_write" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2_write.pyw (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/001 (1.18.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/2_write.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/001 (1.18.22)/2_write.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +205,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/001 (1.18.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)/2_write.pyw.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/001 (1.18.22)/2_write.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,9 +222,9 @@
       <list>
         <item itemvalue="Python.2_write.pyw" />
         <item itemvalue="Python.1.pyw (2)" />
-        <item itemvalue="Python.2_write" />
+        <item itemvalue="Python.2_write.pyw (2)" />
         <item itemvalue="Python.1.pyw (1)" />
-        <item itemvalue="Python.2_წარწერა.pyw" />
+        <item itemvalue="Python.2_write.pyw (1)" />
       </list>
     </recent_temporary>
   </component>
