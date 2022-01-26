@@ -30,6 +30,9 @@
     <setting file="file://$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/001 (1.20.22)/1.pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/001 (1.18.22)/2_write.pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/001 (1.18.22)/1.pyw" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/002 (1.26.22)/3 საკოორდინატო ღერძები.pyw" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/002 (1.26.22)/2 მეთოდები .heading() და .setheading().pyw" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/002 (1.26.22)/1 write.pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/2021-2022/8_4/II სემესტრი/002 (1.26.22)/3 საკოორდინატო ღერძები.pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/2021-2022/8_4/II სემესტრი/002 (1.26.22)/2 მეთოდები .heading() და .setheading().pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/2021-2022/8_4/II სემესტრი/002 (1.26.22)/1 write.pyw" root0="SKIP_INSPECTION" />
@@ -82,20 +85,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/8_4/II სემესტრი/002 (1.26.22)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/002 (1.26.22)" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_8\II სემესტრი\002 (1.26.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_4\II სემესტრი\002 (1.26.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_3\II სემესტრი\002 (1.26.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_6\II სემესტრი\002 (1.25.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_4\II სემესტრი\002 (1.25.22)" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_5\II სემეტრი\002 (1.25.22)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3 საკოორდინატო ღერძები.pyw (1)">
-    <configuration name="1 write.pyw (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.3 საკოორდინატო ღერძები.pyw">
+    <configuration name="1 write.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_4/II სემესტრი/002 (1.26.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/002 (1.26.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_4/II სემესტრი/002 (1.26.22)/1 write.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/002 (1.26.22)/1 write.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/002 (1.26.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/002 (1.26.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/002 (1.26.22)/2 მეთოდები .heading() და .setheading().pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/002 (1.26.22)/2 მეთოდები .heading() და .setheading().pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/002 (1.26.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/002 (1.26.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/002 (1.26.22)/3 საკოორდინატო ღერძები.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/002 (1.26.22)/3 საკოორდინატო ღერძები.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3 საკოორდინატო ღერძები.pyw (1)" />
-        <item itemvalue="Python.2 მეთოდები .heading() და .setheading().pyw (1)" />
-        <item itemvalue="Python.1 write.pyw (1)" />
         <item itemvalue="Python.3 საკოორდინატო ღერძები.pyw" />
         <item itemvalue="Python.2 მეთოდები .heading() და .setheading().pyw" />
+        <item itemvalue="Python.1 write.pyw" />
+        <item itemvalue="Python.3 საკოორდინატო ღერძები.pyw (1)" />
+        <item itemvalue="Python.2 მეთოდები .heading() და .setheading().pyw (1)" />
       </list>
     </recent_temporary>
   </component>
