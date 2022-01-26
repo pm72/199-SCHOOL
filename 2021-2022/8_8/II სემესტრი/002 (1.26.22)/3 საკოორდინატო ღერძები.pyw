@@ -11,6 +11,7 @@ t.pen(pensize=4, pencolor='blue')
 # 0 გრადუსი
 t.fd(200)
 t.write(f"კუთხე გრადუსებში: {t.heading()}", font=('calibri', 12))
+t.write("Hello there!..", font=('calibri', 12))
 
 t.up()
 t.home()
