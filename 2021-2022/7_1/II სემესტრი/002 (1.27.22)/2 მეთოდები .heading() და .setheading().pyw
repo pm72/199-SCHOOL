@@ -1,5 +1,4 @@
 import turtle
-from time import sleep
 
 window = turtle.getscreen()
 t = turtle.Turtle()
