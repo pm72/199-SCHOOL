@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="" />
+    <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,8 +105,8 @@
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_4\II სემესტრი\002 (1.26.22)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2 მეთოდები .heading() და .setheading().pyw">
-    <configuration name="1 write.pyw (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.წარწერა დაყოვნებით.pyw">
+    <configuration name="წარწერა დაყოვნებით.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/002 (1.27.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/002 (1.27.22)/1 write.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/წარწერა დაყოვნებით.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.წარწერა დაყოვნებით.pyw" />
         <item itemvalue="Python.2 მეთოდები .heading() და .setheading().pyw" />
         <item itemvalue="Python.1 write.pyw" />
         <item itemvalue="Python.3 საკოორდინატო ღერძები.pyw (1)" />
         <item itemvalue="Python.2 მეთოდები .heading() და .setheading().pyw (1)" />
-        <item itemvalue="Python.1 write.pyw (1)" />
       </list>
     </recent_temporary>
   </component>
