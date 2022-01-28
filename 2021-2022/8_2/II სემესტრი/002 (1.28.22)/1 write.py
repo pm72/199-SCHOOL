@@ -3,13 +3,13 @@ import turtle
 window = turtle.getscreen()
 t = turtle.Turtle()
 
-turtle.title("ტქსტი turtle ეკრანზე")
-turtle.setup(1200, 600)
-
 t.ht()
 turtle.ht()
 
-t.pen(pencolor='violet')
+turtle.title("წარწერა turtle ეკრანზე")
+turtle.setup(1200, 600)
+
+t.pen(pencolor='magenta')
 
 # t.write("Hello, there!..", font=('calibri', 40, 'italic underline bold'))
 
@@ -21,5 +21,5 @@ t.write("მოგესალმებით ყველას! დღეს 2
         font=('calibri', 40, 'italic underline bold'),
         align='center')
 
-# ====================
+# ================
 turtle.exitonclick()
