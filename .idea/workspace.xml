@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2021-2022/8_5/II სემესტრი/002 (1.28.22)/1 write.pyw" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/8_5/II სემესტრი/002 (1.28.22)/1 write.pyw" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
     <setting file="file://$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/001 (1.20.22)/1.pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/001 (1.18.22)/2_write.pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/001 (1.18.22)/1.pyw" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/003 (1.31.22)/smile.pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/002 (1.26.22)/3 საკოორდინატო ღერძები.pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/002 (1.26.22)/2 მეთოდები .heading() და .setheading().pyw" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/002 (1.26.22)/1 write.pyw" root0="SKIP_INSPECTION" />
@@ -94,23 +94,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/8_2/II სემესტრი/002 (1.28.22)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\თეორიის მაგალითები\II სემესტრი" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_2\II სემესტრი\002 (1.28.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_5\II სემესტრი\002 (1.28.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_2\II სემესტრი\002 (1.28.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_1\II სემესტრი\002 (1.27.22)" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_3\II სემესტრი\002 (1.27.22)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_6\II სემესტრი" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_2\II სემესტრი\001 (1.28.22)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2 მეთოდები .heading() და .setheading()">
-    <configuration name="1 write" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.smile.pyw (1)">
+    <configuration name="სმაილი.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_2/II სემესტრი/002 (1.28.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/002 (1.24.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_2/II სემესტრი/002 (1.28.22)/1 write.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/002 (1.24.22)/სმაილი.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1 write.pyw (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calc_turtle__.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_5/II სემესტრი/002 (1.28.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_5/II სემესტრი/002 (1.28.22)/1 write.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/calc_turtle__.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2 მეთოდები .heading() და .setheading()" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="smile.pyw (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_2/II სემესტრი/002 (1.28.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/003 (1.31.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_2/II სემესტრი/002 (1.28.22)/2 მეთოდები .heading() და .setheading().py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/003 (1.31.22)/smile.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2 მეთოდები .heading() და .setheading().pyw (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="smile.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,11 +182,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_5/II სემესტრი/002 (1.28.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/003 (1.31.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_5/II სემესტრი/002 (1.28.22)/2 მეთოდები .heading() და .setheading().pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/003 (1.31.22)/smile.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2 მეთოდები heading() და .setheading().pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="smiley.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_2/II სემესტრი/002 (1.28.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/003 (1.31.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_2/II სემესტრი/002 (1.28.22)/2 მეთოდები heading() და .setheading().pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/003 (1.31.22)/smiley.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2 მეთოდები .heading() და .setheading()" />
-        <item itemvalue="Python.1 write" />
-        <item itemvalue="Python.2 მეთოდები .heading() და .setheading().pyw (1)" />
-        <item itemvalue="Python.1 write.pyw (2)" />
-        <item itemvalue="Python.2 მეთოდები heading() და .setheading().pyw" />
+        <item itemvalue="Python.smile.pyw (1)" />
+        <item itemvalue="Python.smile.pyw" />
+        <item itemvalue="Python.smiley.pyw" />
+        <item itemvalue="Python.სმაილი.pyw" />
+        <item itemvalue="Python.calc_turtle__.pyw" />
       </list>
     </recent_temporary>
   </component>
