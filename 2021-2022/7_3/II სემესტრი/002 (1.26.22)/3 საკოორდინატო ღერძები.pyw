@@ -6,43 +6,16 @@ t = turtle.Turtle()
 window.title("საკოორდინატო ღერძები")
 window.setup(1000, 600)
 
-t.pen(pensize=4, pencolor='brown')
+t.pen(pensize=4, pencolor='brown', speed=0)
 
-# 0 გრადუსი
-t.fd(200)
-t.write(f"კუთხე: {t.heading()}", font=('calibri', 12))
+for i in range(0, 360, 90):    # range(start, stop, step)   start < stop
+  t.setheading(i)
+  t.fd(200)
+  t.write(f"კუთხე: {t.heading()}", font=('calibri', 12))
 
-t.up()
-t.home()
-t.down()
-
-# 90 გრადუსი
-t.setheading(90)
-t.fd(200)
-t.write(f"კუთხე: {t.heading()}", font=('calibri', 12))
-
-t.up()
-t.home()
-t.down()
-
-# 180 გრადუსი
-t.setheading(180)
-t.fd(200)
-t.write(f"კუთხე: {t.heading()}", font=('calibri', 12))
-
-t.up()
-t.home()
-t.down()
-
-# 270 გრადუსი
-t.setheading(270)
-t.fd(200)
-t.write(f"კუთხე: {t.heading()}", font=('calibri', 12))
-
-t.up()
-t.home()
-t.down()
-
+  t.up()
+  t.home()
+  t.down()
 
 # =======================
 # t.ht()
