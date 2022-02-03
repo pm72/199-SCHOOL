@@ -94,16 +94,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/003 (2.2.22)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/003 (2.3.22)" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_7\II სემესტრი\003 (2.3.22)" />
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_3\II სემესტრი\003 (3.3.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_8\II სემესტრი\003 (2.2.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_4\II სემესტრი\003 (2.2.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\თეორიის მაგალითები\II სემესტრი" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_2\II სემესტრი\002 (1.28.22)" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_5\II სემესტრი\002 (1.28.22)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_5\II სემეტრი" />
@@ -111,8 +111,8 @@
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_2\II სემესტრი\001 (1.28.22)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2 smile.pyw (1)">
-    <configuration name="1 საკოორდინატო ღერძები.pyw (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2 smile.pyw">
+    <configuration name="1 საკოორდინატო ღერძები.pyw (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,32 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/003 (2.2.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/003 (2.3.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/003 (2.2.22)/1 საკოორდინატო ღერძები.pyw" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1 საკოორდინატო ღერძები.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="199-SCHOOL (Introduction to Python for kids)" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_4/II სემესტრი/003 (2.2.22)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_4/II სემესტრი/003 (2.2.22)/1 საკოორდინატო ღერძები.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/003 (2.3.22)/1 საკოორდინატო ღერძები.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_4/II სემესტრი/003 (2.2.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/003 (2.3.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_4/II სემესტრი/003 (2.2.22)/2 smile.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/003 (2.3.22)/2 smile.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="smile.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3 საკოორდინატო ღერძები.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,11 +183,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/003 (2.2.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/002 (1.27.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/003 (2.2.22)/smile.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/002 (1.27.22)/3 საკოორდინატო ღერძები.pyw" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6_smile.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="199-SCHOOL (Introduction to Python for kids)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/6_smile.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2 smile.pyw (1)" />
-        <item itemvalue="Python.1 საკოორდინატო ღერძები.pyw (1)" />
         <item itemvalue="Python.2 smile.pyw" />
-        <item itemvalue="Python.1 საკოორდინატო ღერძები.pyw" />
-        <item itemvalue="Python.smile.pyw" />
+        <item itemvalue="Python.6_smile.pyw" />
+        <item itemvalue="Python.1 საკოორდინატო ღერძები.pyw (2)" />
+        <item itemvalue="Python.3 საკოორდინატო ღერძები.pyw" />
+        <item itemvalue="Python.2 smile.pyw (1)" />
       </list>
     </recent_temporary>
   </component>
