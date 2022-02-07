@@ -94,16 +94,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/Ch_8 (strings)" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\თეორიის მაგალითები\II სემესტრი\Ch_8 (strings)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\თეორიის მაგალითები\II სემესტრი" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_3\II სემესტრი\003 (2.3.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_7\II სემესტრი\003 (2.3.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_3\II სემესტრი\003 (3.3.22)" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_8\II სემესტრი\003 (2.2.22)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_5\II სემეტრი" />
@@ -111,8 +111,8 @@
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_2\II სემესტრი\001 (1.28.22)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mini_project_arc_spirals.pyw">
-    <configuration name="მართკუთხედი და წრეწირი.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.strings">
+    <configuration name="1_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_4/I სემესტრი/011 (12.14.21)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/004 (2.7.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_4/I სემესტრი/011 (12.14.21)/მართკუთხედი და წრეწირი.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/004 (2.7.22)/1_strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.pyw (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2_string_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/Ch_8 (strings)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/001 (1.17.22)/1.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/Ch_8 (strings)/2_string_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mini_project_automatically_draw_a_mandala_design.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="smiley.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,11 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/003 (1.31.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/mini_project_automatically_draw_a_mandala_design.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/003 (1.31.22)/smiley.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mini_project_draw_any_figure.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,11 +204,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/004 (2.7.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/თეორიის მაგალითები/II სემესტრი/mini_project_draw_any_figure.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/004 (2.7.22)/strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.strings" />
+        <item itemvalue="Python.1_strings" />
+        <item itemvalue="Python.smiley.pyw" />
+        <item itemvalue="Python.2_string_methods" />
         <item itemvalue="Python.mini_project_arc_spirals.pyw" />
-        <item itemvalue="Python.mini_project_automatically_draw_a_mandala_design.pyw" />
-        <item itemvalue="Python.mini_project_draw_any_figure.pyw" />
-        <item itemvalue="Python.1.pyw (1)" />
-        <item itemvalue="Python.მართკუთხედი და წრეწირი.pyw" />
       </list>
     </recent_temporary>
   </component>
