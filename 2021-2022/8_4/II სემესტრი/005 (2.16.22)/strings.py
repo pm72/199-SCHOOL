@@ -75,11 +75,33 @@
 
 
 # სტრიქონების კონკატენაცია
-str1 = "Hello"
-str2 = "there!"
-string = str1 + " " + str2
-print(string)
+# str1 = "Hello"
+# str2 = "there!"
+# string = str1 + " " + str2
+# print(string)
+#
+# string = str2 + " " + str1
+# print(string)
 
-string = str2 + " " + str1
-print(string)
 
+# ინდექსაცია სტრიქონებში
+# a = 'Hello there!'
+# print(a[0])
+# print(a[1])
+# print(a[2])
+# print(a[11], "\n")
+#
+# print(a[-1])
+# print(a[-2])
+# print(a[-3])
+# print(a[-4])
+
+
+# ჭრები სტრიქონში Slice. სინტაქსი string[start:stop:step]
+a = 'Hello there!'
+print(a[0:4])       # პირველი ოთხი სიმბოლო
+print(a[:4])        # პირველი ოთხი სიმბოლო
+print(a[5:9])       # სიმბოლეოები მოცემული დიაპაზონით
+print(a[2:9:3])     # სიმბოლეოები მოცემული დიაპაზონით
+print(a[-4:])       # ბოლოდან ოთხი სიმბოლო
+print(a[3:])        # ბოლოდან ოთხი სიმბოლო
