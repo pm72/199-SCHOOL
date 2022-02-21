@@ -132,10 +132,83 @@
 
 
 #3. .count()  ===>  string.count(word)
-a = '''Susan is a lovely girl.
-Bob is Susan's friend.
-Bob plays with Susan.'''
-print(a.count('Susan'))
-print(a.count('Bob'))
-print(a.count('bob'))
-print(a.count('susan'))
+# a = '''Susan is a lovely girl.
+# Bob is Susan's friend.
+# Bob plays with Susan.'''
+# print(a.count('Susan'))
+# print(a.count('Bob'))
+# print(a.count('bob'))
+# print(a.count('susan'))
+
+
+#3. .strip(),  .lstrip(),  .rstrip()
+# a = "   I love coding.     "
+# print(a)
+# a = a.strip()
+# print(a)
+#
+# a = "####My name is Paata! Mamporia!!!!!!!!!"
+# a = a.strip('#')
+# a = a.strip('!')
+# print(a)
+
+
+#4. .replace(),  .find(),  .index()
+# a = '''Susan is a lovely girl.
+# Bob is Susan's friend.
+# Bob plays with Susan.'''
+# a = a.replace('Susan', 'Ronny')
+# print(a)
+
+# a = 'I love coding. I have fun with Python coding.'
+# print(a.find('coding'))
+# print(a.find('Coding'))
+# print(a.find('Python'))
+# print(a.find('python'))
+# print(a.find('P'))
+#
+# print(a.index('coding'))
+# print(a.index('Coding'))
+
+
+#5. .split()
+# სინტქსი: string.split(separator, limit)
+# a = 'I love coding.'
+# print(a.split())  # separator=' ' and separator='\t' and separator='\n'
+#
+# a = 'I love coding.\nI have fun with\t\tPython coding.'
+# print(a.split())  # separator=' ' and separator='\t' and separator='\n'
+# print(a.split('.'))  # separator=' ' and separator='\t' and separator='\n'
+# print(a.split('.\n'))  # separator=' ' and separator='\t' and separator='\n'
+
+
+#6. ოპერატორი 'in'   =====>  True ან False  (შეშმარიტი / მცდარი)
+# print('coding' in 'I love coding with Python.')
+# print('Coding' in 'I love coding with Python.')
+#
+# word = 'Coding'
+# string = 'I love coding with Python.'
+# print(word in string)
+
+
+#7. isalnum(), isalpha(), isnumeric()
+a = 'numbers123numbers123'
+print(a.isalnum())
+
+a = 'numbers123numbers 123'
+print(a.isalnum())
+
+a = 'PaataMamporia'
+print(a.isalpha())
+
+a = 'Paata Mamporia'
+print(a.isalpha())
+
+a = '1234567890'
+print(a.isnumeric())
+
+a = '1234567.890'
+print(a.isnumeric())
+
+
+#8. sislower(), isupper(), istitle()
