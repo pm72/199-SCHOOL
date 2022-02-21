@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/006 (2.21.22)/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/006 (2.21.22)/strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/006 (2.21.22)/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/006 (2.21.22)/strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +113,7 @@
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_2\II სემესტრი\001 (1.28.22)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.strings (1)">
+  <component name="RunManager" selected="Python.strings">
     <configuration name="strings (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,8 +221,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.strings (1)" />
         <item itemvalue="Python.strings" />
+        <item itemvalue="Python.strings (1)" />
         <item itemvalue="Python.strings (5)" />
         <item itemvalue="Python.strings (4)" />
         <item itemvalue="Python.strings (3)" />

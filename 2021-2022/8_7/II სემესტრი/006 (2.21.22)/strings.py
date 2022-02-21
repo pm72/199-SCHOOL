@@ -131,12 +131,54 @@
 # print(a)
 
 
-# .count()    string.count(word)
-a = '''Susan is a lovely girl.
-Burky is Susan's friend.
-Burky plays with Susan.'''
-print(a.count('Susan'))
-print(a.count('Burky'))
-print(a.count('burky'))
-print(a.count('susan'))
-print(a.count('\''))
+#1. .count()
+# სინტქასი: string.count(word)
+# a = '''Susan is a lovely girl.
+# Burky is Susan's friend.
+# Burky plays with Susan.'''
+# print(a.count('Susan'))
+# print(a.count('Burky'))
+# print(a.count('burky'))
+# print(a.count('susan'))
+
+#2. strip(),  .rstrip(), .lstrip()
+# a = "     I love coding.    "
+# print(a)
+# print(a.strip())
+
+#3. .replace(), .find(), .index()
+# a = '''Susan is a lovely girl.
+# Burky is Susan's friend.
+# Burky plays with Susan.'''
+# print(a.replace('Susan', 'Ronny'))
+
+# a = 'I love coding. I have fun with coding.'
+# print(a.find('coding'))
+# print(a.find('Coding'))
+# print(a.index('coding'))
+# # print(a.index('Coding'))
+# print(a.index('c'))
+
+#4. .split()
+# სინტაქსი: string.split(separator, limit)
+# a = 'I love coding.'
+# print(a.split())    # separator=' ', separator='\t', separator='\n',
+
+a = 'I love coding.\nI have fun\t\twith coding!'
+# print(a)
+# print(a.split())    # separator=' ', separator='\t', separator='\n',
+
+a = 'I love coding.\nI have fun\t\twith coding!'
+# print(a)
+# print(a.split('.\n'))    # separator=' ', separator='\t', separator='\n',
+
+# a = "2+3= 8 9 6 5"
+# a = a.split()
+# print(a)
+# print(a[0])
+# print(eval(a[0][:-1]))
+# print(eval('1.1 == 3.3'))
+
+# ოპერატორი 'in'
+print('coding' in 'A love coding.')
+print('Coding' in 'A love coding.')
