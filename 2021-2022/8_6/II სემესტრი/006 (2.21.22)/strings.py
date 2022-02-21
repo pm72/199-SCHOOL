@@ -56,10 +56,70 @@
 #1. .count()
 # string.count(word)
 
-a = '''Susan is lovely girl.
-Barky is Susan's friend.
-Barky plays with Susan.'''
+# a = '''Susan is lovely girl.
+# Barky is Susan's friend.
+# Barky plays with Susan.'''
+#
+# print(a.count('Susan'))
+# print(a.count('Barky'))
+# print(a.count('barky'))
 
-print(a.count('Susan'))
-print(a.count('Barky'))
-print(a.count('barky'))
+#2. .strip(), rstrip(), lstrip()
+# a = "   Hello there!     "
+# print(a.strip())
+# print(a)
+
+#3. .replace(), .find(), index()
+# a = '''Susan is lovely girl.
+# Barky is Susan's friend.
+# Barky plays with Susan.'''
+# print(a.replace('Susan', 'Ronny'))
+
+# a = 'I love coding. I have fun with coding.'
+# print(a.find('coding'))
+# print(a.find('Coding'))
+# print(a.index('coding'))
+# print(a.index('Coding'))
+
+#4. .split(). სინტაქსი: string.split(separator, limit)
+# a = 'I love coding.'
+# print(a.split())   # ' ', '\t', '\n'
+#
+# a = 'I love coding.\nI have fun\t\twith coding.'
+# print(a.split())   # ' ', '\t', '\n'
+# print(a)
+
+# a = 'I love coding.\nI have fun\t\twith coding.'
+# print(a.split('.'))
+
+# a = 'number#123#number#123'
+# print(a.split('#'))
+# print(a.split('#', 1))
+# print(a.split('#', 2))
+
+#5. ოპერატორი in  True ან False  (ჭეშმარიტი / მცდარი)
+# a = "Barky is Ronny's best friend"
+# print('best friend' in a)
+# print('Best friend' in a)
+
+#6. .isalnum()  ---> სტრიქონში მხოლოდ ციფრები ან ასოებია ან ორივე ერთად
+# print("number123number456".isalnum())
+# print("number 123 number456".isalnum())
+
+#7. .isalpha()  ---> პოულობს სტრიქონში ანბანის ასოებს და აბრუნებს ან True-ს ან Fals-ს.
+# print("PaataMamporia".isalpha())
+# print("Paata Mamporia".isalpha())
+
+#8. .isnumeric()
+# print('5871023'.isnumeric())
+# print('587102.3'.isnumeric())
+
+#9. .islower(), isupper(), istitle()
+a = 'paata mamporia is a teacher.'
+print(a.islower())
+
+a = 'PAATA MAMPORIA IS A TEACHER.'
+print(a.isupper())
+
+a = 'Paata Mamporia Is A Teacher.'
+print(a.istitle())
