@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/007 (3.2.22)/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/8_4/II სემესტრი/007 (3.2.22)/strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/006 (2.23.22)/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/006 (2.23.22)/strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,16 +97,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/8_2/II სემესტრი/006 (2.25.22)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/8_4/II სემესტრი/007 (3.2.22)" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_4\II სემესტრი\007 (3.2.22)" />
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_3\II სემესტრი\007 (3.2.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_2\II სემესტრი\006 (2.25.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_5\II სემესტრი\006 (2.25.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_2\II სემესტრი\006 (2.25.22)" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_1\II სემესტრი\006 (2.24.22)" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_3\II სემესტრი\006 (2.24.22)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_4\II სემესტრი\004 (2.8.22)" />
@@ -112,7 +115,7 @@
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_2\II სემესტრი\001 (1.28.22)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.strings (2)">
+  <component name="RunManager" selected="Python.strings (3)">
     <configuration name="strings (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="strings (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="strings (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/006 (2.24.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/006 (2.23.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/006 (2.24.22)/strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/006 (2.23.22)/strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.strings (3)" />
         <item itemvalue="Python.strings (2)" />
         <item itemvalue="Python.strings" />
         <item itemvalue="Python.strings (1)" />
         <item itemvalue="Python.strings (5)" />
-        <item itemvalue="Python.strings (4)" />
       </list>
     </recent_temporary>
   </component>

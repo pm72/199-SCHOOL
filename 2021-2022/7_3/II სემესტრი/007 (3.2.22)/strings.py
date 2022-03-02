@@ -140,7 +140,7 @@
 # a = a.replace('Susan', 'Ronny')
 # print(a)
 
-a = "I love coding. I have fun with Python coding."
+# a = "I love coding. I have fun with Python coding."
 # print(a.find('coding'))
 # print(a.find('c'))
 #
@@ -150,3 +150,35 @@ a = "I love coding. I have fun with Python coding."
 
 # print(a.index('coding'))
 # print(a.index('Coding'))
+
+
+# ინდექსები სტრიქონში    string[index]
+# a = "Hello there!"
+# print(a[0])
+# print(a[1])
+# print(a[2])
+# print(a[len(a)-1], "\n")
+#
+# print(a[-1])
+# print(a[-2])
+# print(a[-3])
+
+
+# ჭრები სტრიქონში  slice.       string[start:stop:step]   <===>  string[start=0:stop-1:step=1]
+# a = "Hello there!"
+# print(a[0:3:1])       # პირველი სამი სიმბოლო
+# print(a[0:3])         # პირველი სამი სიმბოლო
+# print(a[:3])          # პირველი სამი სიმბოლო
+# print(a[2:7])         # სიმბოლოები მითითებული დიაპაზონით
+# print(a[2:9:3])       # სიმბოლოები მითითებული დიაპაზონით
+# print(a[:7:2])
+# print(a[4:])
+# print(a[-4:])
+# print(a[-4::2])
+# print(a[2:-4])
+
+a = "hello there!"
+# a[0] = 'H'
+print(a, id(a))
+a = 'H' + a[1:]
+print(a, id(a))
