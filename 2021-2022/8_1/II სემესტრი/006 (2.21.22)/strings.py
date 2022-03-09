@@ -211,4 +211,4 @@ a = '1234567.890'
 print(a.isnumeric())
 
 
-#8. sislower(), isupper(), istitle()
+#8. islower(), isupper(), istitle()
