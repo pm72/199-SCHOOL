@@ -183,4 +183,84 @@
 
 
 #7. ოპერატორი 'in'   ======> True / False (ჭეშმარიტი / მცდარი)
-a = ""
+# a = "Paata is Demetre's father."
+# print('Demetre' in a)
+# print('demetre' in a)
+
+
+#8. მეთოდები: .isalnum(), isalpha(), isnumeric()
+# a = "numbers123numbers456"
+# b = "numbers 123"
+# print(a.isalnum())
+# print(b.isalnum())
+
+# a = "PaataMamporia"
+# b = "Paata Mamporia"
+# print(a.isalpha())
+# print(b.isalpha())
+
+# a = "12345689"
+# b = "125.96"
+# print(a.isnumeric())
+# print(b.isnumeric())
+
+
+#9. .islower(), .isupper(), .istitle()
+# a = "paata mamporia"
+# b = "Paata mamporia"
+# print(a.islower())
+# print(b.islower())
+#
+# a = "PAATA MAMPORIA"
+# b = "Paata mamporia"
+# print(a.isupper())
+# print(b.isupper())
+#
+# a = "paata mamporia"
+# b = "Paata Mamporia"
+# print(a.istitle())
+# print(b.istitle())
+
+
+# სტრიქონების ფორმატირება
+# a = 14.15
+# b = 5.6
+#
+# # 4 + 5 = 9
+#
+# print(a, "/", b, "=", a / b)
+# print(a, "/", b, "=", round(a / b, 2))
+#
+# # f-სტრიქონი  f-string
+# print("a / b = a/b")
+# print("{a} / {b} = {a/b}")
+# print(f"{a} / {b} = {a/b}")
+# print(f"{a} / {b} = {(a/b):.2f}")
+
+# a = 4
+# b = 5
+# result = f"{a} / {b} = {a / b}"
+# print(result)
+# print(type(result))
+#
+# print()
+#
+# a = 14
+# b = 51.23
+# print(result)
+
+# შაბლონები, ესკიზები   str.format(arg1, arg2, ..., argN)
+result = "Result: {} / {} = {}"
+
+a = 4
+b = 5
+print(result.format(a, b, a/b))
+
+
+a = 14
+b = 51.13
+print(result.format(a, b, round(a/b, 2)))
+print("Result: {} / {} = {}".format(a, b, round(a/b, 2)))
+print("Result: {} / {} = {:.2f}".format(a, b, a / b))
+print(f"Result: {a} / {b} = {(a/b):.2f}")
+print("Result: ",a, "/", b, "=", round(a / b, 2))
