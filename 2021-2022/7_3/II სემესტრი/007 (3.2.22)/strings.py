@@ -177,8 +177,85 @@
 # print(a[-4::2])
 # print(a[2:-4])
 
-a = "hello there!"
-# a[0] = 'H'
-print(a, id(a))
-a = 'H' + a[1:]
-print(a, id(a))
+# a = "hello there!"
+# # a[0] = 'H'
+# print(a, id(a))
+# a = 'H' + a[1:]
+# print(a, id(a))
+
+
+# ოპერატორი in    True / False  (ჭეშმარიტი / მცდარი)
+# a = "Paata is Demetre's father."
+# print("Demetre" in a)
+# print("demetre" in a)
+# print("Paata" in a)
+# print("paata" in a)
+# print("u" in a)
+
+
+# .isalnum(), .isalpha(), isnumeric()
+# a = "numbers123numbers456"
+# b = "numbers 123"
+# print(a.isalnum())
+# print(b.isalnum())
+
+# a = "PaataMamporia"
+# b = "Paata Mamporia"
+# print(a.isalpha())
+# print(b.isalpha())
+
+# a = "123458970145"
+# b = "2589.36"
+# print(a.isnumeric())
+# print(b.isnumeric())
+
+
+# .islower(), .isupper(), .istitle()
+# a = "paata mamporia ---> 49 old."
+# b = "Paata mamporia ---> 49 old."
+# print(a.islower())
+# print(b.islower())
+
+# a = "PAATA ---> 49 OLD."
+# b = "Paata ---> 49 old."
+# print(a.isupper())
+# print(b.isupper())
+
+# a = "Paata Mamporia ---> 49 Old."
+# b = "Paata ---> 49 old."
+# print(a.istitle())
+# print(b.istitle())
+
+
+# სტრიქონის ფორმატირება
+# a = 14
+# b = 5.36
+#
+# # Result: 4 + 5 = 9
+#
+# print("Result:", a, "/", b, "=", a / b)
+# print("Result:", a, "/", b, "=", round(a / b, 2))
+#
+# # f-სტრიქონი  f-string
+# print("Result: a / b = a/b")
+# print("Result: {a} / {b} = {a/b}")
+# print(f"Result: {a} / {b} = {a/b}")
+# print(f"Result: {a} / {b} = {round(a/b, 2)}")
+# print(f"Result: {a} / {b} = {round(a/b, 3)}")
+# print(f"Result: {a} / {b} = {(a/b):.3f}")
+#
+# # ფორმატირება    "{} {} ... {}".format(arg1, arg2, ..., argN)
+# print("Result: {} / {} = {:.2f}".format(a, b, a/b))
+
+# შაბლონები,  ესკიზები
+result = "Result: {} / {} = {}"
+
+a = 14
+b = 19
+print(result.format(a ,b, a/b))
+
+# --========-----
+
+x = 1.4
+y = -2.98
+print(result.format(x ,y, x/y))
