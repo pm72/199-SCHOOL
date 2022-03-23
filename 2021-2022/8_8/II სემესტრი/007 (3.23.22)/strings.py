@@ -202,21 +202,92 @@
 
 #6. .split()
 # სინტაქსი: string.split(separator, limit)
-a = "I love coding."
-print(a.split())   # separator=' ' or separator='\n' or separator='\t', limit=inf
+# a = "I love coding."
+# print(a.split())   # separator=' ' or separator='\n' or separator='\t', limit=-1
+#
+# a = "I love coding.\nI have fun with\t\t\tcoding."
+# print(a.split())   # separator=' ' or separator='\n' or separator='\t', limit=-1
+#
+# a = "I love coding.\nI have fun with\t\t\tcoding."
+# print(a.split('.'))   # separator=' ' or separator='\n' or separator='\t', limit=-1
+#
+# a = "I love coding.\nI have fun with\t\t\tcoding."
+# print(a.split('.\n'))   # separator=' ' or separator='\n' or separator='\t', limit=-1
 
-a = "I love coding.\nI have fun with\t\t\tcoding."
-print(a.split())   # separator=' ' or separator='\n' or separator='\t', limit=inf
+# a = 'numbers#123#numbers#456#numbers#789'
+# print(a.split())
+# print(a.split('#'))
+# print(a.split('#', 1))
+# print(a.split('#', 2))
+# print(a.split('#', 3))
 
-a = "I love coding.\nI have fun with\t\t\tcoding."
-print(a.split('.'))   # separator=' ' or separator='\n' or separator='\t', limit=inf
 
-a = "I love coding.\nI have fun with\t\t\tcoding."
-print(a.split('.\n'))   # separator=' ' or separator='\n' or separator='\t', limit=inf
+#7. .isalnum(), .isalpha(), isnumeric()  =======>  True / False   ჭეშმარიტი / მცდარი
+# a = "number123number456"
+# b = "number 123number 456"
+# print(a.isalnum())
+# print(b.isalnum())
 
-a = 'numbers#123#numbers#456#numbers#789'
-print(a.split())
-print(a.split('#'))
-print(a.split('#', 1))
-print(a.split('#', 2))
-print(a.split('#', 3))
+# a = "PaataMamporia"
+# b = "number 123number 456"
+# print(a.isalpha())
+# print(b.isalpha())
+
+# a = "1258971025"
+# b = "125.9"
+# print(a.isnumeric())
+# print(b.isnumeric())
+
+
+#8. .islower(), .isupper(), .istitle()
+# a = "paata mamporia is 49 years old."
+# b = "Paata Mamporia is 49 years old."
+# print(a.islower())
+# print(b.islower())
+
+# a = "PAATA MAMPORIA IS 49 YEARS OLD."
+# b = "Paata Mamporia is 49 years old."
+# print(a.isupper())
+# print(b.isupper())
+
+# a = "paata mamporia is 49 years old."
+# b = "Paata Mamporia Is 49 Years Old."
+# print(a.istitle())
+# print(b.istitle())
+
+
+# 9. სტრიქონების ფორმატირება
+# a = 15
+# b = 4.13
+# # Result: 5 + 4 = 9
+#
+# print("Result:", a, "/", b, "=", a / b)
+# print("Result:", a, "/", b, "=", round(a / b, 2))
+# print("Result:", a, "/", b, "=", round(a / b, 3))
+#
+# # f-სტრიქონი   f-string   f""
+# print("Result: a / b = a / b")
+# print("Result: {a} / {b} = {a / b}")
+# print(f"Result: {a} / {b} = {a / b}")
+# print(f"Result: {a} / {b} = {round(a / b, 2)}")
+# print(f"Result: {a} / {b} = {(a / b):.2f}")
+# print(f"Result: {a} / {b} = {(a / b):.3f}")
+# print(f"Result: {a} / {b} = {(a / b):.1f}")
+# print(f"Result: {a} / {b} = {(a / b):.0f}")
+#
+# # format    "{} {} ... {}".format(arg1, arg2, ..., argN)
+# print("Result: {} / {} = {}".format(a, b, a/b))
+# print("Result: {} / {} = {:.2f}".format(a, b, a/b))
+
+# შაბლონები  Templates
+result = "{} / {} = {:.2f}"
+
+a = 5.14
+b = 9.67
+print(result.format(a, b, a/b))
+
+# =========
+
+x = 8.924457
+y = 1.254004
+print(result.format(x, y, x/y))
