@@ -175,6 +175,72 @@
 
 
 #7. ოპერატორი 'in'  ====> True / False  (ჭეშმარიტი / მცდარი)
-a = "Barky is Susan's best friend."
-print('best friend' in a)
-print('Best friend' in a)
+# a = "Barky is Susan's best friend."
+# print('best friend' in a)   # True
+# print('Best friend' in a)   # False
+
+
+#8. .isalnum(), .isalpha(), .isnumeric()
+# a = "numbers123number456"
+# b = "numbers 123 number456"
+# print(a.isalnum())
+# print(b.isalnum())
+
+# a = "PaataMamporia"
+# b = "Paata Mamporia"
+# print(a.isalpha())
+# print(b.isalpha())
+
+# a = "1235897120355"
+# b = "1259.69"
+# print(a.isnumeric())
+# print(b.isnumeric())
+
+
+#9. .islower(), .isupper(), .istitle()
+# a = "paata mamporia ---> 49 old."
+# b = "Paata mamporia ---> 49 old."
+# print(a.islower())
+# print(b.islower())
+
+# a = "PAATA MAMPORIA ---> 49 OLD."
+# b = "Paata mamporia ---> 49 old."
+# print(a.isupper())
+# print(b.isupper())
+
+# a = "Paata Mamporia ---> 49 Old."
+# b = "Paata mamporia ---> 49 old."
+# print(a.istitle())
+# print(b.istitle())
+
+
+#10. სტრიქონების ფორმატირება
+# a = 14
+# b = 51.12
+# # Result: 4 + 5 = 9
+#
+# print("Result:", a, "/", b, "=", a / b)
+# print("Result:", a, "/", b, "=", round(a / b, 2))
+# print("Result:", a, "/", b, "=", round(a / b, 3))
+#
+# # f-სტრიქონი  f-string   f"{} {} {}"
+# print("Result: a / b = a/b")
+# print("Result: {a} / {b} = {a/b}")
+# print(f"Result: {a} / {b} = {a/b}")
+# print(f"Result: {a} / {b} = {round(a/b, 2)}")
+# print(f"Result: {a} / {b} = {(a / b):.2f}")
+# print(f"Result: {a} / {b} = {(a / b):.3f}")
+# print(f"Result: {a} / {b} = {(a / b):.1f}")
+# print(f"Result: {a} / {b} = {(a / b):.0f}")
+#
+# # შაბლონები, ესკიზები, Templates
+# # "{} {} ... {}".format(arg1, arg2, ..., argN)
+# print("Result: {} / {} = {}".format(a, b, a/b))
+# print("Result: {} / {} = {:.2f}".format(a, b, a/b))
+
+result = "{} / {} = {:.2f} {}"
+
+a = 14
+b = 51
+# print(result.format(a, b, a/b))
+print(result.format(a, b, a / b, a + b))
