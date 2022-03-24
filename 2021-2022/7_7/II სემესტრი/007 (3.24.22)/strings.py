@@ -175,4 +175,63 @@
 # print(s + a[s:].find('coding'))
 
 
-#6. .isalnum(), .isalpha(), isnumeric  <=======>  True / False   (ჭეშმარიტი / მცდარი)
+#6. .isalnum(), .isalpha(), isnumeric()  <=======>  True / False   (ჭეშმარიტი / მცდარი)
+# a = "numbers123numbers456"
+# b = "numbers 58790"
+# print(a.isalnum())
+# print(b.isalnum())
+
+# a = "PaataMamporia"
+# b = "Paata Mamporia"
+# print(a.isalpha())
+# print(b.isalpha())
+
+# a = "123589710256"
+# b = "5..69"
+# print(a.isnumeric())
+# print(b.isnumeric())
+
+#7. .islower(), .isupper(), .istitle()
+# a = "paata mamporia is 49 years old."
+# b = "Paata mamporia is 49 years old."
+# print(a.islower())
+# print(b.islower())
+
+# a = "PAATA MAMPORIA"
+# b = "Paata mamporia is 49 years old."
+# print(a.isupper())
+# print(b.isupper())
+
+# a = "paata mamporia is 49 years old."
+# b = "Paata Mamporia Is 49 Years Old."
+# print(a.istitle())
+# print(b.istitle())
+
+
+#8. სტრიქონების ფორმატირება
+# a = 14
+# b = 5.13
+# # Result: 4 + 5 = 9
+#
+# print("Result:", a, "/", b, "=", a / b)
+# print("Result:", a, "/", b, "=", round(a / b, 2))
+# print("Result:", a, "/", b, "=", round(a / b, 3))
+# print("Result:", a, "/", b, "=", round(a / b, 4))
+#
+# # f-სტრიქონები   f-string    f"sds adada {} {} {}"
+# print("Result: a / b = a/b")
+# print("Result: {a} / {b} = {a/b}")
+# print(f"Result: {a} / {b} = {a/b}")
+# print(f"Result: {a} / {b} = {round(a/b, 2)}")
+# print(f"Result: {a} / {b} = {(a / b):.3f}")
+# print(f"Result: {a} / {b} = {(a / b):10.3f}")
+#
+# # შაბლონები  Templates   "{} {} ... {}".format(arg1, arg2, ..., argN)
+# print("Result: {} / {} = {:.2f}".format(a, b, a/b))
+
+result = "Result: {} / {} = {:.2f}"
+
+x = 45
+y = 8.95
+print(result.format(x, y, x/y))
+print(result.format(x, y, x/y, 58))
