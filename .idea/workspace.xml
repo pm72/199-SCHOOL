@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="" />
+    <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_2/II სემესტრი/007 (3.25.22)/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/8_2/II სემესტრი/007 (3.25.22)/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/8_5/II სემესტრი/007 (3.25.22)/strings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +96,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/007 (3.24.22)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/8_2/II სემესტრი" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
