@@ -182,23 +182,90 @@
 
 #6. .split()
 # სინტაქსი: string.split(separator, maxsplit)
-a = "I love coding."
-print(a.split())   # separatot=' ' or separator='\n' or separator='\t', maxsplit=-1
+# a = "I love coding."
+# print(a.split())   # separatot=' ' or separator='\n' or separator='\t', maxsplit=-1
+#
+# a = "I love coding.\nI have fun with\t\t\tcoding."
+# print(a.split())   # separatot=' ' or separator='\n' or separator='\t', maxsplit=-1
+#
+# a = "I love coding.\nI have fun with\t\t\tcoding."
+# print(a.split('.'))   # separatot=' ' or separator='\n' or separator='\t', maxsplit=-1
+#
+# a = "I love coding.\nI have fun with\t\t\tcoding."
+# print(a.split('.\n'))   # separatot=' ' or separator='\n' or separator='\t', maxsplit=-1
+#
+# a = "numbers*123*numbers*456*numbers*789"
+# print(a.split('*'))
+#
+# a = "numbers*123*numbers*456*numbers*789"
+# print(a.split('*', 1))
+#
+# a = "numbers*123*numbers*456*numbers*789"
+# print(a.split('*',2))
 
-a = "I love coding.\nI have fun with\t\t\tcoding."
-print(a.split())   # separatot=' ' or separator='\n' or separator='\t', maxsplit=-1
 
-a = "I love coding.\nI have fun with\t\t\tcoding."
-print(a.split('.'))   # separatot=' ' or separator='\n' or separator='\t', maxsplit=-1
+#7. ოპერატორი in    <======>   True / False     ჭეშმარიტი / მცდარი
+# a = "Burky is Ronny's best friend"
+# print('best friend' in a)
+# print('Best friend' in a)
 
-a = "I love coding.\nI have fun with\t\t\tcoding."
-print(a.split('.\n'))   # separatot=' ' or separator='\n' or separator='\t', maxsplit=-1
 
-a = "numbers*123*numbers*456*numbers*789"
-print(a.split('*'))
+#8. .isalnum(),  .isalpha(),  .isnumeric()
+# a = "numbers123numbers456"
+# b = "numbers: 1258"
+# print(a.isalnum())
+# print(b.isalnum())
 
-a = "numbers*123*numbers*456*numbers*789"
-print(a.split('*', 1))
+# a = "PaataMamporia"
+# b = "Paata Mamporia"
+# print(a.isalpha())
+# print(b.isalpha())
 
-a = "numbers*123*numbers*456*numbers*789"
-print(a.split('*',2))
+# a = "12589025660"
+# b = "128.59"
+# print(a.isnumeric())
+# print(b.isnumeric())
+
+
+#9. islower(),  .isupper(),  istitle()
+# a = "paata mamporia is a python teacher"
+# b = "Paata mamporia is a Python teacheR"
+# print(a.islower())
+# print(b.islower())
+
+# a = "paata mamporia is a python teacher"
+# b = "PAATA MAMPORIA"
+# print(a.isupper())
+# print(b.isupper())
+
+# a = "Paata Mamporia Is A Python Teacher"
+# b = "Paata mamporia is a Python teacheR"
+# print(a.istitle())
+# print(b.istitle())
+
+
+#10. სტრიქონების ფორმატირება
+a = 14
+b = 5.13
+# Result: 4 + 5 = 9
+
+print("Result:", a, "/", b, "=", a / b)
+print("Result:", a, "/", b, "=", round(a / b, 2))
+print("Result:", a, "/", b, "=", round(a / b, 1))
+print("Result:", a, "/", b, "=", round(a / b, 0))
+
+# f-სტრიქონები   f-string   f"dfslnslnlfn {a} / {b} = {a / b}"
+print("Result: a / b = a / b")
+print("Result: {a} / {b} = {a / b}")
+print(f"Result: {a} / {b} = {a / b}")
+
+# result = f"Result: {a} / {b} = {a / b}"
+# print(result, type(result))
+
+print(f"Result: {a} / {b} = {round(a / b, 2)}")
+print(f"Result: {a} / {b} = {round(a / b, 3)}")
+print(f"Result: {a} / {b} = {(a / b):.2f}")
+print(f"Result: {a} / {b} = {(a / b):.3f}")
+print(f"Result: {a} / {b} = {(a / b):10.3f}")
+print(f"Result: {a} / {b} = {(a / b):010.3f}")
+
