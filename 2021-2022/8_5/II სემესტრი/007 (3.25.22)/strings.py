@@ -191,7 +191,68 @@
 # a = "I love coding.\nI have fun with\t\t\tcoding."
 # print(a.split('.\n'))   # separator=' ' or separator='\n' or separator='\t', maxsplit=-1
 
-a = "2*3=;9;5;6;7"
-print(a)
-print(a.split(';'))
-print(a.split(';')[3])
+# a = "2*3=;9;5;6;7"
+# print(a)
+# print(a.split(';'))
+# print(a.split(';')[3])
+
+
+#7. ოპერატორი in    <=====>   True / False   (ჭეშმარიტი / მცდარი)
+# a = "Burky is Ronny's best friend."
+# print("best friend" in a)
+# print("Best friend" in a)
+
+
+#8. .isalnum(), .isalpha(), .isnumeric()
+# a = "numbers123numbers456"
+# b = "numbers 123 numbers 456"
+# print(a.isalnum())
+# print(b.isalnum())
+
+# a = "PaataMamporia"
+# b = "paata mamporia"
+# print(a.isalpha())
+# print(b.isalpha())
+
+# a = "14805890369"
+# b = "158.21"
+# print(a.isnumeric())
+# print(b.isnumeric())
+
+
+#9. .islower(), .isupper(), .istitle()
+# a = "paata mamporia"
+# b = "Paata mamporia"
+# print(a.islower())
+# print(b.islower())
+
+# a = "paata mamporia"
+# b = "PAATA MAMPORIA"
+# print(a.isupper())
+# print(b.isupper())
+
+# a = "Paata Mamporia A Python Teacher"
+# b = "Paata Mamporia a Python Teacher"
+# print(a.istitle())
+# print(b.istitle())
+
+
+#10. სტრიქონების ფორმატირება
+a = 14
+b = 5.13
+# Result: 4 + 5 = 9
+
+print("Result:", a, "/", b, "=", a / b)
+print("Result:", a, "/", b, "=", round(a / b, 2))
+print("Result:", a, "/", b, "=", round(a / b, 3))
+print("Result:", a, "/", b, "=", round(a / b, 1))
+print("Result:", a, "/", b, "=", round(a / b, 0))
+
+# f-სტრიქონები   f-string    f"fmdlkmdlfdl {a} / {b} = {a / b}"
+print("Rsult: a / b = a / b")
+print("Rsult: {a} / {b} = {a / b}")
+print(f"Rsult: {a} / {b} = {a / b}")
+print(f"Rsult: {a} / {b} = {round(a / b, 2)}")
+print(f"Rsult: {a} / {b} = {(a / b):.2f}")
+print(f"Rsult: {a} / {b} = {(a / b):10.2f}")
+print(f"Rsult: {a} / {b} = {(a / b):010.2f}")
