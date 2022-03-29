@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/008 (3.29.22)/chess_players.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/008 (3.29.22)/chess_players_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/008 (3.29.22)/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/008 (3.29.22)/simple_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/008 (3.29.22)/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/008 (3.29.22)/Chess_players_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/008 (3.29.22)/chess_players.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/008 (3.29.22)/chess_players_simple_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/008 (3.29.22)/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/008 (3.29.22)/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/008 (3.29.22)/chess_playears_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/008 (3.29.22)/chess_players.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/008 (3.29.22)/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/008 (3.29.22)/simple_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/008 (3.29.22)/strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/007 (3.2.22)/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/007 (3.22.22)/input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/007 (3.2.22)/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/007 (3.22.22)/strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,16 +111,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/თეორიის მაგალითები/#8 (string)/f-string" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/008 (3.29.22)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\თეორიის მაგალითები\#8 (string)\f-string" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_2\II სემესტრი" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_5\II სემესტრი" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_2\II სემესტრი\007 (3.25.22)" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_1\II სემესტრი\007 (3.24.22)" />
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_6\II სემესტრი\008 (3.29.22)" />
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_6\II სემესტრი" />
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_4\II სემესტრი\008 (3.29.22)" />
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_4\II სემესტრი" />
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_5\II სემეტრი\008 (3.29.22)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\თეორიის მაგალითები\#8 (string)\f-string" />
@@ -113,8 +130,8 @@
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_2\II სემესტრი\001 (1.28.22)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dict_sort">
-    <configuration name="chess_players" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.chess_playears_print">
+    <configuration name="Chess_players_print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/თეორიის მაგალითები/#8 (string)/f-string" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/008 (3.29.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/თეორიის მაგალითები/#8 (string)/f-string/chess_players.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/008 (3.29.22)/Chess_players_print.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dict_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="chess_playears_print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/თეორიის მაგალითები/#8 (string)/f-string" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/008 (3.29.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/თეორიის მაგალითები/#8 (string)/f-string/dict_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/008 (3.29.22)/chess_playears_print.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="f-string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="chess_players_print (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/თეორიის მაგალითები/#8 (string)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/008 (3.29.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/თეორიის მაგალითები/#8 (string)/f-string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/008 (3.29.22)/chess_players_print.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="players" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="simple_print (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/თეორიის მაგალითები/#8 (string)/f-string" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/008 (3.29.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/თეორიის მაგალითები/#8 (string)/f-string/players.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/008 (3.29.22)/simple_print.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print_chess_players" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="simple_print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/თეორიის მაგალითები/#8 (string)/f-string" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/008 (3.29.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/თეორიის მაგალითები/#8 (string)/f-string/print_chess_players.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/008 (3.29.22)/simple_print.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dict_sort" />
-        <item itemvalue="Python.players" />
-        <item itemvalue="Python.print_chess_players" />
-        <item itemvalue="Python.chess_players" />
-        <item itemvalue="Python.f-string" />
+        <item itemvalue="Python.chess_playears_print" />
+        <item itemvalue="Python.simple_print" />
+        <item itemvalue="Python.chess_players_print (1)" />
+        <item itemvalue="Python.simple_print (1)" />
+        <item itemvalue="Python.Chess_players_print" />
       </list>
     </recent_temporary>
   </component>
