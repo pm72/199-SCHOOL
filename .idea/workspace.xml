@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/008 (3.31.22)/chess_players.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/008 (3.31.22)/chess_players_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/008 (3.31.22)/simple_print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/008 (3.31.22)/chess_players.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/008 (3.31.22)/chess_players_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/008 (3.31.22)/simple_print.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,16 +97,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/008 (3.31.22)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/008 (3.31.22)" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_3\II სემესტრი\008 (3.31.22)" />
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_3\II სემესტრი" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_7\II სემესტრი\008 (3.31.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_7\II სემესტრი" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_8\II სემესტრი\008 (3.30.22)" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_8\II სემესტრი" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_4\II სემესტრი\008 (3.30.22)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\თეორიის მაგალითები\practic" />
