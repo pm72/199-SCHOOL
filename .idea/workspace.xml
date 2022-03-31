@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/008 (3.31.22)/chess_players.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/008 (3.31.22)/simple_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/008 (3.31.22)/strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/008 (3.31.22)/chess_players_print___გადახედე.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/008 (3.31.22)/chess_players_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/008 (3.31.22)/chess_players_print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/008 (3.31.22)/simple_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/008 (3.31.22)/simple_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/008 (3.31.22)/chess_players_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/008 (3.31.22)/chess_players_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/008 (3.31.22)/simple_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/008 (3.31.22)/simple_print.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +116,7 @@
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\8_6\II სემესტრი" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.chess_players_print___გადახედე">
+  <component name="RunManager" selected="Python.chess_players_print (1)">
     <configuration name="chess_players_print (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/008 (3.30.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/008 (3.31.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/008 (3.30.22)/chess_players_print.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/008 (3.31.22)/chess_players_print.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple_print (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="simple_print (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +188,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/008 (3.31.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/008 (3.31.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/008 (3.31.22)/simple_print.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/008 (3.31.22)/simple_print.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.chess_players_print (1)" />
+        <item itemvalue="Python.simple_print (2)" />
         <item itemvalue="Python.chess_players_print___გადახედე" />
         <item itemvalue="Python.simple_print" />
         <item itemvalue="Python.chess_players_print" />
-        <item itemvalue="Python.simple_print (1)" />
-        <item itemvalue="Python.chess_players_print (1)" />
       </list>
     </recent_temporary>
   </component>
