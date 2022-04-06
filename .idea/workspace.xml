@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/009 (4.6.22)/num_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/009 (4.6.22)/string_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/009 (4.6.22)/turtle_input.pyw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/8_4/II სემესტრი/009 (4.6.22)/num_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/8_4/II სემესტრი/009 (4.6.22)/text_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/009 (4.6.22)/num_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/8_8/II სემესტრი/009 (4.6.22)/text_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2021-2022/7_3/II სემესტრი/008 (3.30.22)/strings.py" beforeDir="false" />
-    </list>
+    <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
