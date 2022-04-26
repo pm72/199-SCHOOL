@@ -1,28 +1,5 @@
 import turtle
-
-ypos = 220
-
-
-def dynamic_math(x, y, op, col):
-  global ypos
-
-  t.pencolor(col)
-  t.pu()
-  t.goto(0, ypos)
-  t.pd()
-
-  ypos -= 80
-
-  if op == '+': display = f"{x} + {y} = {x + y}"
-  elif op == '-': display = f"{x} - {y} = {x - y}"
-  elif op == '*': display = f"{x} * {y} = {x * y}"
-  elif op == '/': display = f"{x} / {y} = {(x / y):.2f}"
-  elif op == '//': display = f"{x} // {y} = {x // y}"
-  elif op == '%': display = f"{x} % {y} = {x % y}"
-  else:
-    display = f"Bad operator '{op}'"
-
-  t.write(display, align='center', font=("georgia", 45, 'bold'))
+from dynamic_math import dynamic_math
 
 
 # =====> RUN MAIN PROGRAM <=====
@@ -35,8 +12,8 @@ turtle.bgcolor('lightyellow')
 
 t.ht()
 turtle.ht()
-
-num1 = turtle.numinput("Input numbers", "First number:")
+num1 = turtle.numinput("Input numbers",
+"First number:")
 num2 = turtle.numinput("Input numbers", "Second number:")
 
 dynamic_math(int(num1), int(num2), '+', 'red')
