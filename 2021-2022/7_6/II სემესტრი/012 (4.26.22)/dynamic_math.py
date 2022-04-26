@@ -32,3 +32,7 @@ def dynamic_math(x, y, op, col):
   except ZeroDivisionError:
     display = f"{x} {op} {y} = {'Division by Zero'}"
     t.write(display, align='center', font=("georgia", 45, 'bold'))
+  except TypeError:
+    t.pencolor('red')
+    display = f"Input bad data for {x} and {y}"
+    t.write(display, align='center', font=("georgia", 45, 'bold'))
