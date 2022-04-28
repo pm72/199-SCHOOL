@@ -1,14 +1,5 @@
 import turtle
-
-
-def dynamic_math(x, y, op, col):
-  t.pencolor(col)
-  t.pu()
-  t.goto(x=0, y=220)
-  t.pd()
-
-  # display = f"{x} {op} {y} = {x + y}"
-  t.write('display', align='center', font=("georgia", 45, 'bold'))
+from helper import dynamic_math
 
 
 # =====> RUN MAIN PROGRAM <=====
@@ -22,10 +13,22 @@ turtle.bgcolor('lightyellow')
 t.ht()
 turtle.ht()
 
-num1 = turtle.numinput(title="Input numbers", prompt="First number:")
-num2 = turtle.numinput(title="Input numbers", prompt="Second number:")
+try:
+  num1 = turtle.numinput(title="Input numbers", prompt="First number:")       # Cancel  ===>  None
+  num2 = turtle.numinput(title="Input numbers", prompt="Second number:")      # Cancel  ===>  None
 
-dynamic_math(num1, num2, '+', 'red')
+  # dynamic_math(int(num1), int(num2), '+', 'red')
+  # dynamic_math(int(num1), int(num2), '-', 'blue')
+  # dynamic_math(int(num1), int(num2), '*', 'green')
+  # dynamic_math(int(num1), int(num2), '/', 'salmon')
+  # dynamic_math(int(num1), int(num2), '//', 'magenta')
+  # dynamic_math(int(num1), int(num2), '%', 'darkviolet')
+  # dynamic_math(int(num1), int(num2), '|', 'gold')
+  dynamic_math(num1, num2, '+', 'red')
+except TypeError:
+  t.pencolor('red')
+  display = f"Bad input for {num1} and {num2}"
+  t.write(display, align='center', font=("georgia", 40, 'bold'))
 
 
 # ===================

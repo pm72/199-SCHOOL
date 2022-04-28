@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/012 (4.28.22)/colorful_and_dynamic_math.pyw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/012 (4.28.22)/colorful_and_dynamic_math.pyw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/012 (4.28.22)/dynamic_math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/012 (4.28.22)/colorful_and_dynamic_math.pyw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/012 (4.28.22)/helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/012 (4.28.22)/helper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/012 (4.28.22)/colorful_and_dynamic_math.pyw" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/012 (4.28.22)/colorful_and_dynamic_math.pyw" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,27 +120,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.colorful_and_dynamic_math.pyw (2)">
-    <configuration name="colorful_and_dynamic_math.pyw (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="199-SCHOOL (Introduction to Python for kids)" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/012 (4.28.22)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_7/II სემესტრი/012 (4.28.22)/colorful_and_dynamic_math.pyw" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="colorful_and_dynamic_math.pyw (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,6 +154,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_3/II სემესტრი/012 (4.28.22)/colorful_and_dynamic_math.pyw" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="helper (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="199-SCHOOL (Introduction to Python for kids)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/012 (4.28.22)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_1/II სემესტრი/012 (4.28.22)/helper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,10 +228,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.colorful_and_dynamic_math.pyw (2)" />
+        <item itemvalue="Python.helper (1)" />
         <item itemvalue="Python.colorful_and_dynamic_math.pyw" />
         <item itemvalue="Python.helper" />
         <item itemvalue="Python.test.pyw" />
-        <item itemvalue="Python.colorful_and_dynamic_math.pyw (1)" />
       </list>
     </recent_temporary>
   </component>
