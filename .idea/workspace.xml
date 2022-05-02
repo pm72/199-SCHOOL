@@ -117,7 +117,7 @@
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\თეორიის მაგალითები\practic" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1_draw_a_circle.pyw (1)">
+  <component name="RunManager" selected="Python.3_computing_distances.pyw">
     <configuration name="1_draw_a_circle.pyw (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,9 +225,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1_draw_a_circle.pyw (1)" />
-        <item itemvalue="Python.2_print_a_table.pyw" />
         <item itemvalue="Python.3_computing_distances.pyw" />
+        <item itemvalue="Python.2_print_a_table.pyw" />
+        <item itemvalue="Python.1_draw_a_circle.pyw (1)" />
         <item itemvalue="Python.1_draw_a_circle.pyw" />
         <item itemvalue="Python.colorful_and_dynamic_math.pyw (4)" />
       </list>
