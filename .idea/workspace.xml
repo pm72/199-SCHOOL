@@ -117,8 +117,8 @@
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\თეორიის მაგალითები\practic" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3_computing_distances.pyw">
-    <configuration name="1_draw_a_circle.pyw (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.7_4 mesame amocana.pyw">
+    <configuration name="ამოცანა #1.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/საკონტროლო წერები/2021-2022/II სემესტრი/შემაჯამებელი 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/საკონტროლო წერები/შემაჯამებელი 3/7_4/გორგილაძე აკაკი" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/საკონტროლო წერები/2021-2022/II სემესტრი/შემაჯამებელი 3/1_draw_a_circle.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/საკონტროლო წერები/შემაჯამებელი 3/7_4/გორგილაძე აკაკი/ამოცანა #1.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1_draw_a_circle.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ამოცანა #3.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,32 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/საკონტროლო წერები/2021-2022/II სემესტრი/შემაჯამებელი 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/საკონტროლო წერები/შემაჯამებელი 3/7_4/გორგილაძე აკაკი" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\საკონტროლო წერები\2021-2022\II სემესტრი\შემაჯამებელი 3\1_draw_a_circle.pyw" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2_print_a_table.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="199-SCHOOL (Introduction to Python for kids)" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/საკონტროლო წერები/2021-2022/II სემესტრი/შემაჯამებელი 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/საკონტროლო წერები/2021-2022/II სემესტრი/შემაჯამებელი 3/2_print_a_table.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/საკონტროლო წერები/შემაჯამებელი 3/7_4/გორგილაძე აკაკი/ამოცანა #3.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="colorful_and_dynamic_math.pyw (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7_4 mesame amocana.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,11 +189,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_2/II სემესტრი/012 (4.29.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/საკონტროლო წერები/შემაჯამებელი 3/7_4/ვარდოშვილი ნათია" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_2/II სემესტრი/012 (4.29.22)/colorful_and_dynamic_math.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/საკონტროლო წერები/შემაჯამებელი 3/7_4/ვარდოშვილი ნათია/7_4 mesame amocana.pyw" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="7_4 pirveli amocana.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="199-SCHOOL (Introduction to Python for kids)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/საკონტროლო წერები/შემაჯამებელი 3/7_4/ვარდოშვილი ნათია" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/საკონტროლო წერები/შემაჯამებელი 3/7_4/ვარდოშვილი ნათია/7_4 pirveli amocana.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7_4 mesame amocana.pyw" />
+        <item itemvalue="Python.7_4 pirveli amocana.pyw" />
+        <item itemvalue="Python.ამოცანა #3.pyw" />
+        <item itemvalue="Python.ამოცანა #1.pyw" />
         <item itemvalue="Python.3_computing_distances.pyw" />
-        <item itemvalue="Python.2_print_a_table.pyw" />
-        <item itemvalue="Python.1_draw_a_circle.pyw (1)" />
-        <item itemvalue="Python.1_draw_a_circle.pyw" />
-        <item itemvalue="Python.colorful_and_dynamic_math.pyw (4)" />
       </list>
     </recent_temporary>
   </component>
