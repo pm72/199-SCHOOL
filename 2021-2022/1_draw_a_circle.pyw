@@ -37,4 +37,5 @@ t.write(area, font=('georgia', 15, 'bold'), align='center')
 
 
 # =====================
-turtle.exitonclick()
+# turtle.exitonclick()
+turtle.done()

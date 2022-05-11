@@ -39,4 +39,5 @@ t.write(display, align='center', font=("calibri", 15, 'bold'))
 
 
 # =====================
-turtle.exitonclick()
+# turtle.exitonclick()
+turtle.done()

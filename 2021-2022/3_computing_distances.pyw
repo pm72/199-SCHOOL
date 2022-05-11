@@ -39,4 +39,5 @@ t.write(f"Distance: {distance:.2f}", font=("calibri", 12, 'bold'))
 
 
 # =====================
-turtle.exitonclick()
+# turtle.exitonclick()
+turtle.done()

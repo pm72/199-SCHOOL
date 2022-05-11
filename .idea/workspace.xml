@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/1_draw_a_circle.pyw" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/1_draw_a_circle.pyw" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2021-2022/2_print_a_table.pyw" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/2_print_a_table.pyw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/3_computing_distances.pyw" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/3_computing_distances.pyw" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +120,7 @@
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\თეორიის მაგალითები\practic" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1_draw_a_circle.pyw (1)">
+  <component name="RunManager" selected="Python.3_computing_distances.pyw (1)">
     <configuration name="1_draw_a_circle.pyw (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,9 +228,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1_draw_a_circle.pyw (1)" />
         <item itemvalue="Python.3_computing_distances.pyw (1)" />
         <item itemvalue="Python.2_print_a_table.pyw (1)" />
+        <item itemvalue="Python.1_draw_a_circle.pyw (1)" />
         <item itemvalue="Python.3_computing_distances.pyw" />
         <item itemvalue="Python.2_print_a_table.pyw" />
       </list>
