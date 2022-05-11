@@ -26,7 +26,7 @@ display = f"{'a':<{w}}{'b':<{w}}{'a ** b'}\n"\
           f"{a3:<{w}}{b3:<{w}}{a3 ** b3}\n"\
           f"{a4:<{w}}{b4:<{w}}{a4 ** b4}\n"\
           f"{a5:<{w}}{b5:<{w}}{a5 ** b5}\n"\
-          f"{b6:<{w}}{b6:<{w}}{b6 ** b6}\n"\
+          f"{a6:<{w}}{b6:<{w}}{a6 ** b6}\n"\
           f"{a7:<{w}}{b7:<{w}}{a7 ** b7}\n"\
           f"{a8:<{w}}{b8:<{w}}{a8 ** b8}\n"
 
@@ -36,7 +36,7 @@ t.goto(0, -100)
 t.pd()
 
 t.write(display, align='center', font=("calibri", 15, 'bold'))
-print(display)
+
 
 # =====================
 turtle.exitonclick()
