@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dec6515-09dc-4a9e-b9a1-e1deab7214df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/016 (5.30.22)/condition1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/016 (5.30.22)/condition1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/016 (5.30.22)/condition1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/016 (5.31.22)/condition1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/11 (4.18.22)/110011.pyw" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/011 (4.18.22)/110011.pyw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/11 (4.18.22)/colorful_and_dynamic_math.pyw" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/011 (4.18.22)/colorful_and_dynamic_math.pyw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/016 (5.30.22)/condition1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/8_1/II სემესტრი/015 (5.30.22)/condition1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/016 (5.30.22)/condition1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/8_6/II სემესტრი/015 (5.30.22)/condition1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/016 (5.30.22)/condition1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-2022/8_7/II სემესტრი/015 (5.30.22)/condition1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +122,7 @@
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_2\II სემესტრი\008 (4.1.22)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.condition1 (1)">
+  <component name="RunManager" selected="Python.condition1 (2)">
     <configuration name="condition1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="condition1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="condition1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_5/II სემესტრი/014 (5.20.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/016 (5.31.22)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_5/II სემესტრი/014 (5.20.22)/condition1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/016 (5.31.22)/condition1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.condition1 (2)" />
         <item itemvalue="Python.condition1 (1)" />
         <item itemvalue="Python.condition1" />
         <item itemvalue="Python.condition1 (5)" />
         <item itemvalue="Python.condition1 (4)" />
-        <item itemvalue="Python.condition1 (3)" />
       </list>
     </recent_temporary>
   </component>
