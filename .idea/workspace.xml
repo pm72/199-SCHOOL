@@ -93,22 +93,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Project/Python/199-SCHOOL (Introduction to Python for kids)/2021-2022/7_6/II სემესტრი/015 (5.31.22)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Project/Python/199-SCHOOL (Introduction to Python for kids)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\GUI\images" />
+      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\GUI" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_6\II სემესტრი\015 (5.31.22)" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_6\II სემესტრი" />
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_4\II სემესტრი" />
-      <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_5\II სემეტრი\013 (5.10.22)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_3\II სემესტრი" />
@@ -118,8 +118,8 @@
       <recent name="D:\Project\Python\199-SCHOOL (Introduction to Python for kids)\2021-2022\7_2\II სემესტრი\008 (4.1.22)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.condition1">
-    <configuration name="condition1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.4_3_vertical_box.pyw">
+    <configuration name="3_3_qcheckboxes.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/016 (5.31.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_5/II სემეტრი/016 (5.31.22)/condition1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/3_3_qcheckboxes.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="condition1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4_2_horizontal_box.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/015 (5.31.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_4/II სემესტრი/015 (5.31.22)/condition1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/4_2_horizontal_box.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="condition1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4_3_vertical_box.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/015 (5.31.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/7_6/II სემესტრი/015 (5.31.22)/condition1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/4_3_vertical_box.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="condition1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="found_author.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_5/II სემესტრი/014 (5.20.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_5/II სემესტრი/014 (5.20.22)/condition1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/found_author.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="condition1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="login_gui.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="199-SCHOOL (Introduction to Python for kids)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,11 +211,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-2022/8_2/II სემესტრი/014 (5.20.22)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI/Login GUI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-2022/8_2/II სემესტრი/014 (5.20.22)/condition1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/Login GUI/login_gui.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.condition1" />
-        <item itemvalue="Python.condition1 (5)" />
-        <item itemvalue="Python.condition1 (4)" />
-        <item itemvalue="Python.condition1 (3)" />
-        <item itemvalue="Python.condition1 (2)" />
+        <item itemvalue="Python.4_3_vertical_box.pyw" />
+        <item itemvalue="Python.4_2_horizontal_box.pyw" />
+        <item itemvalue="Python.login_gui.pyw" />
+        <item itemvalue="Python.found_author.pyw" />
+        <item itemvalue="Python.3_3_qcheckboxes.pyw" />
       </list>
     </recent_temporary>
   </component>
