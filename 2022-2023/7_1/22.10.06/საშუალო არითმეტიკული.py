@@ -8,9 +8,3 @@ numb1, numb2, numb3 = eval(
 average = (numb1 + numb2 + numb3) / 3
 
 print("The average of", numb1, numb2, numb3, "is", average)
-
-
-x = (numb1 * numb2) / (numb3 - numb1) * (numb2 + numb1) ** \
-    (numb3 - numb1/2)
-
-print(x)
