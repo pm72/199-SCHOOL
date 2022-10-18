@@ -21,5 +21,5 @@ totalHours = totalMinutes // 60
 currentHour = totalHours % 24
 
 # Display results
-print("Current time is", currentHour, ":",
+print("Current time is", (currentHour + 4) % 24, ":",
       currentMinute, ":", currentSecond, "GMT")
