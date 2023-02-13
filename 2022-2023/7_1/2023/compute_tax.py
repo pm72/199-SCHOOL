@@ -1,37 +1,32 @@
 import sys
+import single_filer as sf
+import married_jointly as mj
 
-status = int(input(
-  "0 – Single filer\n" + \
-  "1 – Married jointly\n" + \
-  "2 – Married separately\n" + \
-  "3 – Head of household\n\n" + \
-  "Enter the filing status: "))
+status = 0.0
+while type(status) == float:
+  try:
+    status = int(input(
+      "0 – Single filer\n" + \
+      "1 – Married jointly\n" + \
+      "2 – Married separately\n" + \
+      "3 – Head of household\n\n" + \
+      "Enter the filing status: "))
+  except ValueError:
+    print("\nPlease, enter an integer...\n")
+
+if status < 0 or status > 3:
+  print("Error: invalid status")
+  input()
+  sys.exit()
 
 income = eval(input("Enter the taxable income: "))
 
 tax = 0
 
 if status == 0:
-  if income <= 8350:
-    tax = income * 0.1
-  elif income <= 33950:
-    tax = 8350 * 0.1 + (income - 8350) * 0.15
-  elif income <= 82250:
-    tax = 8350 * 0.1 + (33950 - 8350) * 0.15 + \
-          (income - 33950) * 0.25
-  elif income <= 171550:
-    tax = 8350 * 0.1 + (33950 - 8350) * 0.15 + \
-          (82250 - 33950) * 0.25 + (income - 82250) * 0.28
-  elif income <= 372950:
-    tax = 8350 * 0.1 + (33950 - 8350) * 0.15 + \
-          (82250 - 33950) * 0.25 + (171550 - 82250) * 0.28 + \
-          (income - 171550) * 0.33
-  else:
-    tax = 8350 * 0.1 + (33950 - 8350) * 0.15 + \
-          (82250 - 33950) * 0.25 + (171550 - 82250) * 0.28 + \
-          (372950 - 171550) * 0.33 + (income - 372950) * 0.35
+  tax = sf.tax(income)
 elif status == 1:
-  ...
+  tax = mj.tax(income)
 elif status == 2:
   pass
 elif status == 3:
@@ -42,3 +37,7 @@ else:
 
 print(f"\nTax is {tax:.2f}")
 print(f"Total income is {income - tax:.2f}")
+
+
+# =============
+input()
