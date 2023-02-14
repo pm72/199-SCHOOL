@@ -1,9 +1,9 @@
 def tax(income):
   fix10 = 8350
   fix15 = 33950
-  fix25 = 82250
-  fix28 = 171550
-  fix33 = 372950
+  fix25 = 68525
+  fix28 = 104425
+  fix33 = 186475
   
   if income <= fix10:
     tax = income * 0.1

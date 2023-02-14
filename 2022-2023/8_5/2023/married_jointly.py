@@ -1,8 +1,8 @@
 def tax(income):
-  fix10 = 8350
-  fix15 = 33950
-  fix25 = 82250
-  fix28 = 171550
+  fix10 = 16700
+  fix15 = 67900
+  fix25 = 137050
+  fix28 = 208850
   fix33 = 372950
   
   if income <= fix10:
