@@ -1,6 +1,14 @@
 import sys
-import single_filer as sf
-import married_jointly as mj
+
+try:
+  import single_filer as sf
+  import married_jointly as mj
+  import married_separately as ms
+  import head_of_household as hoh
+except ModuleNotFoundError as error:
+  print(error)
+  input("Exiting...")
+  sys.exit()
 
 status = 0.0
 while type(status) == float:
@@ -10,24 +18,29 @@ while type(status) == float:
                        "2 – Married separately\n" + \
                        "3 – Head of household\n\n" + \
                        "Enter the filing status: "))
+
+    if status < 0 or status > 3:
+      print("\nError: invalid status\n")
+      status = 0.0
+      continue
   except ValueError:
     print("\nPlease, enter an integer...\n")
 
-if status < 0 or status > 3:
-  print("Error: invalid status")
-  input()
-  sys.exit()
-
-income = eval(input("Enter the taxable income: "))
+income = ''
+while type(income) != int and type(income) != float:
+  try:
+    income = eval(input("Enter the taxable income: "))
+  except NameError:
+    print("\nPlease, enter number for income \n")
 
 if status == 0:
   tax = sf.tax(income)
 elif status == 1:
   tax = mj.tax(income)
 elif status == 2:
-  pass
+  tax = ms.tax(income)
 else:
-  ...
+  tax = hoh.tax(income)
 
 print(f"\nTax is {tax:.2f}\n" + \
       f"Total income is {income - tax:.2f}")
