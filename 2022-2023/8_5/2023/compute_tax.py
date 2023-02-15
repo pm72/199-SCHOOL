@@ -1,5 +1,14 @@
 import sys
-import single_filer as sf
+
+try:
+  import single_filer as sf
+  import married_jointly as mj
+  import married_separately as ms
+  import head_of_household as hoh
+except ModuleNotFoundError as error:
+  print(error)
+  input()
+  sys.exit()
 
 status = int(input("0 – Single filer\n" + \
                    "1 – Married jointly\n" + \
@@ -17,11 +26,11 @@ income = eval(input("Enter income: "))
 if status == 0:
  tax = sf.tax(income)
 elif status == 1:
-  pass
+  tax = mj.tax(income)
 elif status == 2:
-  pass
+  tax = ms.tax(income)
 else:
-  pass
+  tax = ms.tax(income)
 
 
 print(f"\nTax: {tax:.2f}\n" + \
