@@ -1,5 +1,9 @@
 import sys
+
 import single_filer as sf
+import married_jointly as mj
+import married_separately as ms
+import head_of_household as hoh
 
 status = 0.0
 while type(status) == float:
@@ -22,11 +26,11 @@ income = eval(input("Enter income: "))
 if status == 0:
   tax = sf.tax(income)
 elif status == 1:   # else if status == 1:
-  pass
+  tax = mj.tax(income)
 elif status == 2:
-  pass
+  tax = ms.tax(income)
 else:
-  pass
+  tax = hoh.tax(income)
 
 print(f"\nTax: {tax:.2f}\n" + \
       f"Remaining income: {(income - tax):.2f}")
