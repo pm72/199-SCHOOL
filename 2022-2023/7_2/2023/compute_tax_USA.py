@@ -7,7 +7,7 @@ try:
   import head_of_household as hoh
 except ModuleNotFoundError as error:
   print(error)
-  input("Exiting...")
+  input("\nPress ENTER to exit...")
   sys.exit()
 
 status = 0.0
@@ -45,4 +45,4 @@ else:
 print(f"\nTax is {tax:.2f}\n" + \
       f"Total income is {income - tax:.2f}")
 
-input()
+input("\nPress ENTER to exit...")
