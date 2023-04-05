@@ -26,13 +26,14 @@
 
 i = 123
 s = 0
+d = 2
 
-if i % 2 == 1:
-  i += 1
+if i % d != 0:
+  i += (d - i % d)
 
 while i <= 324:
   s += i
+  print(i, end='  ')
+  i += d
 
-  i += 2
-
-print(f"The sum is {s}")
+print(f"\n\nThe sum is {s}")
