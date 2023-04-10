@@ -28,7 +28,7 @@ while condition:    x < 3:
 
 i = 123
 s = 0
-d = 47
+d = 7
 
 i += (d - i % d)
 
